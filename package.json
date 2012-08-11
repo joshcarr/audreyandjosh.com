@@ -1,0 +1,25 @@
+{
+  "name": "audreyandjosh.com",
+  "description": "Audrey and Josh",
+  "version": "0.1.0",
+  "homepage": "https://github.com/josh/audreyandjosh.com",
+  "author": {
+    "name": "Josh Carr",
+    "email": "joshcarr@gmail.com",
+    "url": "http://joshcarr.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/josh/audreyandjosh.com.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/josh/audreyandjosh.com/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "node-build-script": "http://nodeload.github.com/h5bp/node-build-script/tarball/dev"
+  },
+  "keywords": []
+}
