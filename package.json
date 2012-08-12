@@ -2,7 +2,7 @@
   "name": "audreyandjosh.com",
   "description": "Audrey and Josh",
   "version": "0.1.0",
-  "homepage": "https://github.com/josh/audreyandjosh.com",
+  "homepage": "https://github.com/joshcarr/audreyandjosh.com",
   "author": {
     "name": "Josh Carr",
     "email": "joshcarr@gmail.com",
@@ -10,16 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/josh/audreyandjosh.com.git"
+    "url": "git://github.com/joshcarr/audreyandjosh.com.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/josh/audreyandjosh.com/blob/master/LICENSE-MIT"
+      "url": "https://github.com/joshcarr/audreyandjosh.com/blob/master/LICENSE-MIT"
     }
   ],
   "dependencies": {
-    "node-build-script": "http://nodeload.github.com/h5bp/node-build-script/tarball/dev"
+    "grunt-less":    ">0.0.0",
+    "grunt-css":     ">0.0.0",
+    "grunt-contrib": ">0.0.0"
   },
   "keywords": []
 }
